@@ -1,7 +1,7 @@
 # Final_Project
+- May 2023 in the Ironhack, Berlin
 # Coronavirus GENE - VARIANT Caller App and Machine Learning Approaches for Efficient Genomic Surveillance and Prediction Analyses  
 
-## Final_Project May 2023 in the Ironhack, Berlin
 ## By Evans
 ## Dataset: hCoV-19 (Coronavirus) complete genome Sequences from GISAID database!
 
@@ -14,8 +14,6 @@
 5. [Time Plan from May 10 to May 19](#6) 
 6. [References](#7)
    
-
-
 # Problem
 ## CORONAVIRUS pandemic is still with us! And hence Genomic surveillance is still ON!
 ## Genome analysis from huge data sets is computationally intensive and takes time.
@@ -89,7 +87,7 @@
    -- Recall
    -- Precision
    -- R square
-### The bigger picture for the future???
+### The bigger picture for the future?
 - Gene-Variant GUI App
 - ML analyses
        
