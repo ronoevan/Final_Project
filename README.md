@@ -20,8 +20,8 @@
 ## 3. And this may delay responses to emerging deadly variants.
 
 # Goals of the project
-## Build a python-based App/GUI for gene - variant calling to make the process of gene and variant calling efficient.
-## Apply  Machine Learning Tools to predict variant, new(novel)/recurrent gene mutations in sequences.
+## 1. Build a python-based App/GUI for gene - variant calling to make the process of gene and variant calling efficient.
+## 2. Apply  Machine Learning Tools to predict variant, new(novel)/recurrent gene mutations in sequences.
 
 # Data Gathering and Methodology
 1. Dataset is publicly available in GISAID dataset (https://github.com/).
