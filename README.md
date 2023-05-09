@@ -8,11 +8,8 @@
 ##  Table of Contents
 
 1. [Problem](#2)
-
 2. [Goals of the project¶](#3)
-
-3. [Data Gathering and Methodology](#4)
-   
+3. [Data Gathering and Methodology](#4) 
 4. [Data Analytics and Conclusion](#5) 
 5. [Time Plan from May 10 to May 19](#6) 
 6. [References](#7)
@@ -27,37 +24,40 @@
 # Goals of the project
 ## Build a python-based App/GUI for gene - variant calling to make the process of gene and variant calling efficient.
 ## Apply  Machine Learning Tools to predict variant, new(novel)/recurrent gene mutations in sequences.
+
 # Data Gathering and Methodology
 1. Dataset is publicly available in GISAID dataset (https://github.com/).
--- Description of the dataset
+2. Description of the dataset
 **The column headings and their descriptions are listed here:**
--- **width:** The length of the genome as a string.
+**width:** The length of the genome as a string.
 
--- **names:** name of the genome. The GISAID names of genomes have in them date and country of origin
+**names:** name of the genome. The GISAID names of genomes have in them date and country of origin
 
--- **seqs:** string of the genome cDNA.
+**seqs:** string of the genome cDNA.
 
 **Derived columns: Other columns are derived by using the hCoV-19 python-based App
 
--- **date:** date derived from column 'name'.
+**date:** date derived from column 'name'.
 
--- **country:** country derived from column 'name'.
+**country:** country derived from column 'name'.
 
--- **gene_cdna:** cDNA coding sequences of gene retrieved from the seqs
+**gene_cdna:** cDNA coding sequences of gene retrieved from the seqs
 
--- **gene_cdna_width:** length of cDNA coding sequences of gene retrieved from the seqs.
+**gene_cdna_width:** length of cDNA coding sequences of gene retrieved from the seqs.
 
--- **gene_aa:** amino acid (aa) coding sequences translated from gene retrieved from the seqs
+**gene_aa:** amino acid (aa) coding sequences translated from gene retrieved from the seqs
 
--- **gene_aa_width:** length of amino acid (aa) coding sequences translated from gene retrieved from the seqs.
+**gene_aa_width:** length of amino acid (aa) coding sequences translated from gene retrieved from the seqs.
 
--- **type:** whether the sequence id a wild type or a variant.
+**type:** whether the sequence id a wild type or a variant.
 
--- **variant_columns:** variant calling. What name of variant it is, otherwise its 'Other'.
+
+**variant_columns:** variant calling. What name of variant it is, otherwise its 'Other'.
 
 3. **Download complete genome datasets** from the GISAID database for samples collected in  Germany from Jan 2021 to April 2023.
     - complete genome sequences and with complete date of collection 
-4. Selected Python libraries will be used for EDA and for data wrangling. 
+4. Selected Python libraries will be used for EDA, data wrangling, GUI development and ML algorithms. 
+
 ## **Do data cleaning:**
     - identify and remove, where applicable the genomes with sequence coverage, drop columns with low importance and noisy data
     - decide on the interesting features to keep for prediction analysis
