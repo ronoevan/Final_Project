@@ -41,16 +41,12 @@
     
 ## **Reveal the bigger picture:** 
      - Relate the data to the opportunity for hCov-19 genomic survelillance.
-     - Recommnedation about the prediction whether on robustness of the prediction and if there are open questions.
+     - Conclusion/Recommnedation about the prediction on it robustness of the prediction and if there are open questions.
      - Conclusion.
      
 
 #  Description of the dataset
-The dataset used to complete this project was scraped in 2016 from ebay-Kleinanzeigan (Germany).
-The data was made available publicly on the Kaggle by the user 'orgesleka'. 
-
-The dataset contains seventeen columns with over 37 thousand rows of private used car listings for sale; 
-the column headings and their descriptions are listed here:
+ The column headings and their descriptions are listed here:
 
 **width:** The length of the genome as a string.
 
