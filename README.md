@@ -26,6 +26,7 @@
 # Data Gathering and Methodology
 1. Dataset is publicly available in GISAID dataset (https://github.com/).
 2. Description of the dataset
+
 **The column headings and their descriptions are listed here:**
 
 **width:** The length of the genome as a string.
