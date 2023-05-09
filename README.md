@@ -15,9 +15,9 @@
 6. [References](#7)
    
 # Problem
-## CORONAVIRUS pandemic is still with us! And hence Genomic surveillance is still ON!
-## Genome analysis from huge data sets is computationally intensive and takes time.
-## And this may delay responses to emerging deadly variants.
+## 1. CORONAVIRUS pandemic is still with us! And hence Genomic surveillance is still ON!
+## 2. Genome analysis from huge data sets is computationally intensive and takes time.
+## 3. And this may delay responses to emerging deadly variants.
 
 # Goals of the project
 ## Build a python-based App/GUI for gene - variant calling to make the process of gene and variant calling efficient.
