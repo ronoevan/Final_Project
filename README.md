@@ -59,7 +59,7 @@
 4. Selected Python libraries will be used for EDA, data wrangling, GUI development and ML algorithms. 
 
 ## **Do data cleaning:**
-    - identify and remove, where applicable the genomes with sequence coverage, drop columns with low importance and noisy data
+    - identify and remove, where applicable the genomes with sequence coverage, drop columns that are of low importance and may have noisy data
     - decide on the interesting features to keep for prediction analysis
 ## **Carry out EDA and provide dataset summary:** 
     - Interesting feature for lengths of cDNA and lengths of protein Amino acids    
