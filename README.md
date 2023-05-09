@@ -58,7 +58,7 @@ the column headings and their descriptions are listed here:
 
 **seqs:** string of the genome cDNA.
 
-## From these columns, other columns are derived by the hCoV-19 python-based App
+## From these columns, other columns are derived by using the hCoV-19 python-based App
 
 **date:** date derived from column 'name'.
 
@@ -79,23 +79,46 @@ the column headings and their descriptions are listed here:
 # Data Analytics and Conclusion
 
        
-## Time Plan
+## Time Plan from 
 
-### 1st Day:  
-- Gather data 
-- EDA for genome selections
+### 1st Day Wednesday May 10, 2023
+- Present the proposed Project
+- Gather data
+- Preliminary data exploration subset of dataset for ML analysis
+- Pipeline for ML analysis 
+- Work on the App to refine it 
 
+### 2nd Day:Thursday May 11, 2023 
+- Collating the datasets
+- Exploring the dataset
+- Further preliminary data exploration subset of dataset for ML analysis
+- Pipeline for ML analysis for different models
+- Finalize the App for variant calling to capture most of the Variants of Concern (VOC) or subvariants since November 2021
 
-###  2nd Day
-- gene and variant calling
-- EDA for feature selection
+###  3rd Day: Friday May 12, 2023  
+- gene and variant calling for bigger dataset
+- Collating the datasets
+- Exploring and checking usefulness
 
+### 4th Days: Monday May 15, 2023  
+- Gather final data for ML datasets from data got from by gene/variant calling
+- EDA for genome selections for ML analysis
+- EDA for feature selection for Ml analysis
 
-### 3rd Days
-ML analysis
+### 5th Day: Tuesday May 16, 2023 
+ML analysis 
 
-### 4th Day
-- Analsis
+### 6th Day: Wednesday May 17, 2023 
+- ML analysis
+- Final Results Interpretation
 - Presentation Preparation
+
+### 7h Day: Thursday May 18, 2023
+- Final Results Interpretation
+- Presentation Preparation
+
+### 8th Day: Friday May 19, 2023
+- Presentation of Final Project
+
 
 #  References
