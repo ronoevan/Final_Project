@@ -102,7 +102,7 @@
 - EDA for feature selection for Ml analysis
 
 ### 5th Day: Tuesday May 16, 2023 
-ML analysis 
+- ML analysis 
 
 ### 6th Day: Wednesday May 17, 2023 
 - ML analysis
