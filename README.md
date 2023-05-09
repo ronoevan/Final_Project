@@ -31,7 +31,7 @@
 
 **names:** name of the genome. The GISAID names of genomes have in them date and country of origin
 
-**seqs:** string of the genome cDNA.
+**seqs:** string of the genome cDNA. 
 
 **Derived columns: Other columns are derived by using the hCoV-19 python-based App
 
