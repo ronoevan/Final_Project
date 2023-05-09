@@ -35,7 +35,7 @@
 
 **Derived columns: Other columns are derived by using the hCoV-19 python-based App
 
-**date:** date derived from column 'name'.
+**date:** date derived from column 'name'. 
 
 **country:** country derived from column 'name'.
 
