@@ -65,7 +65,7 @@
     - Interesting feature for lengths of cDNA and lengths of protein Amino acids    
 ## **Reveal the bigger picture:** 
      - Relate the data to the opportunity for hCov-19 genomic survelillance.
-     - Conclusion/Recommnedation about the prediction on it robustness of the prediction and if there are open questions.
+     - Conclusion/Recommnedation about the prediction on its robustness on the prediction and if there are open questions.
      - Conclusion.
      
 
@@ -81,6 +81,7 @@
 - Export the treeview data as csv file
 - Filter the dated data by date
 - view other standard data from csv, text, excel files
+
 ### What do the ML analyses reveal?
 - gene mutation prediction?
 - Recurrent mutation?
