@@ -118,14 +118,14 @@
 - EDA for genome selections for ML analysis
 - EDA for feature selection for Ml analysis
 ### 5th Day: Tuesday May 16, 2023 
-- ML analysis 
+- ML analysis contimued 
 ### 6th Day: Wednesday May 17, 2023 
 - ML analysis
-- Final Results Interpretation
-- Presentation Preparation
+- Preliminary Results Interpretation
+- Draft of Presentation Preparation
 ### 7h Day: Thursday May 18, 2023
 - Final Results Interpretation
-- Presentation Preparation
+- Final Presentation Preparation
 ### 8th Day: Friday May 19, 2023
 - Presentation of Final Project
 
