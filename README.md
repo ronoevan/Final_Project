@@ -24,7 +24,7 @@
 ## 2. Apply  Machine Learning Tools to predict variant, new(novel)/recurrent gene mutations in sequences.
 
 # Data Gathering and Methodology
-1. Dataset is publicly available in GISAID dataset (https://github.com/).
+1. Dataset is publicly available in GISAID dataset (https://gisaid.org/).
 2. Description of the dataset
 
 **The column headings and their descriptions are listed here:**
