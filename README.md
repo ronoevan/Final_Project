@@ -113,8 +113,8 @@
 2. Hence not robust enough.
 
 ### 4. Neutral Network models
-1. All the different neutral network models did not compute in my computer the python kernel died
-2. Possible because of one-hot encoding that needed alot of comptations and increase in dimensionality of that data
+1. All the different neutral network models did not compute in my computer.  The python kernel died
+2. Possible because of one-hot encoding that needed alot of computations and increase in dimensionality of the data
 3. Hence the memory of the computer became limited.
 
 
