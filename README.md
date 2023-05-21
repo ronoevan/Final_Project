@@ -1,6 +1,6 @@
 # Final_Project
 - May 2023 in the Ironhack, Berlin
-# Coronavirus GENE - VARIANT Caller App and Machine Learning Approaches for Efficient Genomic Surveillance and Prediction Analyses  
+# Deploying GENE-VARIANT Caller App and Machine Learning Model to identify Covid-19 Variants.  
 
 ## By Evans
 ## Dataset: hCoV-19 (Coronavirus) complete genome Sequences from GISAID database!
@@ -20,8 +20,8 @@
 ## 3. And this may delay responses to emerging deadly variants.
 
 # Goals of the project
-## 1. Build a python-based App/GUI for gene - variant calling to make the process of genomic surveilance and variant tracking more efficient.
-## 2. Apply  Machine Learning Tools to predict variant, new(novel)/recurrent gene mutations in sequences.
+## 1. Build a python-based App/GUI for gene-variant calling to make the process of genomic surveilance and variant tracking more earsier and efficient.
+## 2. Integrate the gene-variant caller App with a Machine Learning Model to predict variants from spike amino acids sequences.
 
 # Data Gathering and Methodology
 1. Dataset is publicly available in GISAID dataset (https://gisaid.org/).
@@ -80,7 +80,7 @@
 - Search tool for the tree content
 - Export the treeview data as csv file
 - Filter the dated data by date
-- view other standard data from csv, text, excel files
+- view other standard data from csv, text, excel files.
 
 ### What do the ML analyses reveal?
 - gene mutation prediction?
@@ -147,20 +147,21 @@
 - Exploring and checking usefulness
 - Documenting the results from different modeling algorithms
 
-### 4th Days: Monday May 15, 2023  
+### 4th Days: Monday May 15, 2023. DONE  
 - Further expoloration and validation of Machine Learning Algorithms in final data for ML datasets from data got from by gene/variant calling
 - Implement the GUI App to capture the modeling and prediction functions.
-### 5th Day: Tuesday May 16, 2023 
+### 5th Day: Tuesday May 16, 2023. DONE
 - ML analysis continued 
-### 6th Day: Wednesday May 17, 2023 
+### 6th Day: Wednesday May 17, 2023. DONE
 - ML analysis
 - Preliminary Results Interpretation
 - Draft of Presentation Preparation
-### 7h Day: Thursday May 18, 2023
+### 7h Day: Thursday May 18, 2023. DONE
 - Final Results Interpretation
 - Final Presentation Preparation
-### 8th Day: Friday May 19, 2023
+### 8th Day: Friday May 19, 2023. DONE
 - Presentation of Final Project
+- Voted as one of the 3 best projects.
 
 
 #  References
