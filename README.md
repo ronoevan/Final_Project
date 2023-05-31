@@ -74,7 +74,7 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
      
 
 # Data Analytics and Conclusion
-### What the gene -variant caller App does?
+### What the gene -variant caller App aimed to do?
 - Read fasta files
 - Variant calling  
 - gene calling, the 12 genes from fasta files
