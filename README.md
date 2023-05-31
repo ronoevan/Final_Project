@@ -167,15 +167,15 @@ Find Gene-Variant Caller App: Version v1.0a and version 1.0b here: https://drive
 
 The Gene-Variant Caller App is finally unveiled: https://drive.google.com/file/d/1wJr9bk5hVIZVILIrAmkMrqCHItT51y6O/view?usp=drive_web
 # How to use the Gene-Caller App version 1.0a or 1.0b
-- It should be downloaded together with the save pickle file.
-- The saved pickle file is the trained ML Random Forest model and should be saved together in the same folder for the model.
+- It should be downloaded together with the saved pickle file.
+- The saved pickle file is the trained ML Random Forest model and should be saved together in the same folder with the app.
 - This will allow the App to access it when running the model for variant prediction.
 - Two initial versions (v1.0a and v1.0b) with and without a console. 
-- In v1.0a, genome and spike nucleotide columns are retained in the analysis. 
-- While v1.0b drops these columns for faster downstream analysis. 
-- Users can trace back the nucleotides using genome names.
+- In v1.0a, genome and spike nucleotide columns are retained in the analysis, recommended when analysing less than 10,000 complete genome sequences. 
+- While v1.0b drops these columns for faster downstream analysis, recommended when analysing  over 10,000 complete genome sequences. 
+- Users of v1.0b can trace back the nucleotides using genome names.
 - The console option is valuable for user to identify errors that may arise during the analysis.
-- App is the ability to read GISAID Fasta files, which are widely used for storing hCoV-19 genome sequences. 
+- App has the ability to read GISAID Fasta files, which are widely used for storing hCoV-19 genome sequences. 
 - The app does data cleaning and preprocessing capabilities to ensure that the data is properly formatted and ready for analysis. 
 - The app offers a specialized gene-variant calling feature that is specifically designed for the GISAID dataset.
 - The app supports gene-variant calling not only for GISAID sequences but also for other Fasta cDNA sequence data. 
@@ -191,6 +191,11 @@ The Gene-Variant Caller App is finally unveiled: https://drive.google.com/file/d
 - Ability to clear the treeview and search area
 - Overall, the Gene-Variant Caller App provides researchers and analysts with a comprehensive suite of tools and features to support their study of hCoV-19 genomic variations. 
 - It empowers users to uncover valuable insights and contribute to a deeper understanding of the virus.
+- The Gene-Variant Caller app is a standalone tool that facilitates efficient tracking and identification of variants in large genomic datasets.
+- It can be used to complement other existing tools to address the emergence of deadly hCoV-19 variants. 
+- The initial version of the app is now publicly available for Windows operating system. 
+- User feedback is encouraged to enhance its future development.![image](https://github.com/ronoevan/Final_Project/assets/12579459/03d64dc4-7380-412a-97e0-1f512fbb320c)
+
 
 
 
