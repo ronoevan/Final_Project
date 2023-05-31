@@ -25,7 +25,7 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 
 # Goals of the project
 ## 1. Build a python-based App/GUI for gene - variant calling to make the process of genomic surveilance and variant tracking more efficient.
-## 2. Apply  complement Gene-Variant calling with a trained Machine Learning Tools to predict variant, new(novel)/recurrent gene mutations in the sequences.
+## 2. Apply  complementary Gene-Variant calling with a Machine Learning Tools trained to predict variant, new(novel)/recurrent gene mutations in the sequences.
 
 # Data Gathering and Methodology
 1. Dataset is publicly available in GISAID dataset (https://gisaid.org/).
