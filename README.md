@@ -168,7 +168,7 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 ### 8th Day: Friday May 19, 2023:  DONE
 - Presentation of Final Project. The project was voted among the top 3 best projects.
 
-# Features, functionality and how to use the Gene-Caller App version 1.0a and version 1.0b
+# Features, functionality, how to use and limitations of the Gene-Caller App version 1.0a and version 1.0b
 - It should be downloaded together with the saved pickle file.
 - The saved pickle file is the trained ML Random Forest model and should be saved together in the same folder with the app.
 - This will allow the App to access it when running the model for variant prediction.
@@ -197,7 +197,7 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 - It can be used to complement other existing tools to address the emergence of deadly hCoV-19 variants. 
 - The initial version of the app is now publicly available for Windows operating system. 
 - User feedback is encouraged to enhance its future development.
-- Limitations of Gene Variant Caller App
+-- Limitations of Gene Variant Caller App
 - Limitation 1. The Gene-Variant calling process, relies on 100% spike sequence coverage for variant identification. During the cleaning process, gene sequences with sequencing errors or low coverage are eliminated.
 - Limitaion 2. The need to drop genome columns to reduce processing time for large datasets.  
 - Limitation 3. While the study catalogued and used a few known variants, there is a need for improvement by expanding the variant list to include all known and relevant variants, thereby enhancing performance. 
