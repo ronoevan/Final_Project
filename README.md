@@ -165,7 +165,6 @@ Find Gene-Variant Caller App: Version v1.0a and version 1.0b here: https://drive
 ### 8th Day: Friday May 19, 2023:  DONE
 - Presentation of Final Project. The project was voted among the top 3 best projects.
 
-The Gene-Variant Caller App is finally unveiled: https://drive.google.com/file/d/1wJr9bk5hVIZVILIrAmkMrqCHItT51y6O/view?usp=drive_web
 # How to use the Gene-Caller App version 1.0a or 1.0b
 - It should be downloaded together with the saved pickle file.
 - The saved pickle file is the trained ML Random Forest model and should be saved together in the same folder with the app.
@@ -195,6 +194,7 @@ The Gene-Variant Caller App is finally unveiled: https://drive.google.com/file/d
 - It can be used to complement other existing tools to address the emergence of deadly hCoV-19 variants. 
 - The initial version of the app is now publicly available for Windows operating system. 
 - User feedback is encouraged to enhance its future development.
+- The Gene-Variant Caller App is finally unveiled: https://drive.google.com/file/d/1wJr9bk5hVIZVILIrAmkMrqCHItT51y6O/view?usp=drive_web
 
 
 
