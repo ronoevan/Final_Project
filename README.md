@@ -45,7 +45,7 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 **date:** date derived from column 'name'. 
 
 **country:** country derived from column 'name'.
-
+ 
 **gene_cdna:** cDNA coding sequences of gene retrieved from the seqs
 
 **gene_cdna_width:** length of cDNA coding sequences of gene retrieved from the seqs.
