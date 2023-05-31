@@ -194,7 +194,8 @@ The Gene-Variant Caller App is finally unveiled: https://drive.google.com/file/d
 - The Gene-Variant Caller app is a standalone tool that facilitates efficient tracking and identification of variants in large genomic datasets.
 - It can be used to complement other existing tools to address the emergence of deadly hCoV-19 variants. 
 - The initial version of the app is now publicly available for Windows operating system. 
-- User feedback is encouraged to enhance its future development.![image](https://github.com/ronoevan/Final_Project/assets/12579459/03d64dc4-7380-412a-97e0-1f512fbb320c)
+- User feedback is encouraged to enhance its future development.
+- ![image](https://github.com/ronoevan/Final_Project/assets/12579459/03d64dc4-7380-412a-97e0-1f512fbb320c)
 
 
 
