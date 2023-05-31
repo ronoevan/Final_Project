@@ -10,13 +10,14 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 
 ##  Table of Contents
 
-1. [Problem](#2)
-2. [Goals of the project¶](#3)
-3. [Data Gathering and Methodology](#4) 
-4. [Data Analytics and Conclusion](#5) 
-5. [Time Plan from May 10, 2023 to May 19, 2023](#6)
-6. [How to use the Gene-Caller App version 1.0a or 1.0b](#7)
-7. [References](#8)
+1. [Abstract](#1)
+2. [Problem](#2)
+3. [Goals of the project¶](#3)
+4. [Data Gathering and Methodology](#4) 
+5. [Data Analytics and Conclusion](#5) 
+6. [Time Plan from May 10, 2023 to May 19, 2023](#6)
+7. [How to use the Gene-Caller App version 1.0a or 1.0b](#7)
+8. [References](#8)
    
 # Problem
 ## 1. CORONAVIRUS pandemic is still with us! And hence Genomic surveillance is still ON!
