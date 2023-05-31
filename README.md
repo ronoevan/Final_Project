@@ -208,3 +208,45 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 
 
 #  References
+Zhu, N. et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. New England Journal of Medicine 382, 727–733 (2020).
+2.	Cucinotta, D. & Vanelli, M. WHO Declares COVID-19 a Pandemic. Acta Biomed 91, 157–160 (2020).
+3.	Gorbalenya, A. et al. The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2. Nat Microbiol 5, (2020).
+4.	Wu, F. et al. A new coronavirus associated with human respiratory disease in China. Nature 579, 265–269 (2020).
+5.	Jamil, S. et al. Genetic variants of SARS-CoV-2: What do we know so far? Am J Respir Crit Care Med 203, (2021).
+6.	McCrone, J. T. et al. Context-specific emergence and growth of the SARS-CoV-2 Delta variant. Nature 610, 154–160 (2022).
+7.	Khandia, R. et al. Emergence of SARS-CoV-2 Omicron (B.1.1.529) variant, salient features, high global health concerns and strategies to counter it amid ongoing COVID-19 pandemic. Environ Res 209, 112816 (2022).
+8.	Hadfield, J. et al. Nextstrain: real-time tracking of pathogen evolution. Bioinformatics 34, 4121–4123 (2018).
+9.	GISAID. GISAID. https://www.gisaid.org/ (2023).
+10.	O’Toole, Á. et al. Assignment of epidemiological lineages in an emerging pandemic using the pangolin tool. Virus Evol 7, veab064 (2021).
+11.	Orton, R. CoV-GLUE: enabled by data from GISAID. https://cov-glue.cvr.gla.ac.uk/index.php (2021).
+12.	Elbe, S. & Buckland-Merrett, G. Data, disease and diplomacy: GISAID’s innovative contribution to global health. Global Challenges 1, 33–46 (2017).
+13.	Tegally, H. et al. Detection of a SARS-CoV-2 variant of concern in South Africa. Nature 592, 438–443 (2021).
+14.	Tegally, H. et al. Sixteen novel lineages of SARS-CoV-2 in South Africa. Nat Med 27, 440–446 (2021).
+15.	ECDC. Sequencing of SARS-CoV-2 - first update. https://www.ecdc.europa.eu/en/publications-data/sequencing-sars-cov-2 (2021).
+16.	GISAID. Delta variant. https://www.gisaid.org/hcov19-variants/ (2021).
+17.	WHO. The effects of virus variants on COVID-19 vaccines. https://www.who.int/news-room/feature-stories/detail/the-effects-of-virus-variants-on-covid-19-vaccines?gclid=CjwKCAjw-sqKBhBjEiwAVaQ9azeXfBJUkJAMRUAYSG-Z9mQziqRWzpkDVBD8-wFLoykiLqqng0YBCBoCKN0QAvD_BwE (2021).
+18.	Abdool Karim, S. S. & de Oliveira, T. New SARS-CoV-2 Variants — Clinical, Public Health, and Vaccine Implications. New England Journal of Medicine 384, 1866–1868 (2021).
+19.	WHO. XBB.1.16 Initial Risk Assessment. https://www.who.int/docs/default-source/coronaviruse/21042023xbb.1.16ra-v2.pdf (2023).
+20.	Foundation., P. S. Python 3.11.3 Documentation. Python 3.11.3 Documentation https://www.python.org/doc/3.11.3/ (2023).
+21.	Rono, E. K. Covid-19 genomic analysis reveals clusters of emerging sublineages within the delta variant. bioRxiv 2021.10.08.463334 (2021) doi:10.1101/2021.10.08.463334.
+22.	Breiman, L. Random Forests. Mach Learn 45, 5–32 (2001).
+23.	Aerzteblatt.de. SARS-CoV-2: New variant XBB.1.16 arrived in the USA and England. Arcturus XBB.1.16 https://www.aerzteblatt.de/nachrichten/142683/SARS-CoV-2-Neue-Variante-XBB-1-16-in-den-USA-und-England-angekommen (2023).
+24.	Rono, E. K. Covid-19 genomic analysis reveals clusters of emerging sublineages within the delta variant. bioRxiv 2021.10.08.463334 (2021) doi:10.1101/2021.10.08.463334.
+25.	Foundation, P. S. re — Regular expression operations. re — Regular expression operations (2021).
+26.	Mckinney, W. Data Structures for Statistical Computing in Python. http://conference.scipy.org/proceedings/scipy2010/mckinney.html (2010).
+27.	ViralZone. Sars-CoV-2 circulating variants. Sars-CoV-2 circulating variants https://viralzone.expasy.org/9556 (2023).
+28.	Control, E. C. for D. P. and & Union, A. agency of the E. SARS-CoV-2 variants of concern as of 04 May 2023. SARS-CoV-2 variants of concern as of 04 May 2023 https://www.ecdc.europa.eu/en/covid-19/variants-concern (2023).
+29.	WHO. WHO announces simple, easy-to-say labels for SARS-CoV-2 Variants of Interest and Concern. (2021).
+30.	WHO. Tracking SARS-CoV-2 variants. https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/ (2021).
+31.	Cock, P. J. A. et al. Biopython: Freely available Python tools for computational molecular biology and bioinformatics. Bioinformatics 25, 1422–1423 (2009).
+32.	Hunter, J. D. Matplotlib: A 2D Graphics Environment. Comput Sci Eng 9, 90–95 (2007).
+33.	Waskom, M. seaborn: statistical data visualization. J Open Source Softw 6, 3021 (2021).
+34.	Rumelhart, D. E., Hinton, G. E. & Williams, R. J. Learning representations by back-propagating errors. Nature 323, 533–536 (1986).
+35.	Rish, I. An Empirical Study of the Naïve Bayes Classifier. IJCAI 2001 Work Empir Methods Artif Intell 3, (2001).
+36.	Cortes, C. & Vapnik, V. Support-vector networks. Chem. Biol. Drug Des. 297, 273–297 (2009).
+37.	Pedregosa, F. et al. Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research vol. 12 http://scikit-learn.sourceforge.net. (2011).
+38.	Foundation, P. S. pickle — Python object serialization¶. pickle — Python object serialization¶ https://docs.python.org/3/library/pickle.html (2021).
+39.	Mendeley. Stay on top of your research. https://www.mendeley.com/reference-management/mendeley-desktop (2023).
+40.	Castellano, S. et al. iVar, an Interpretation-Oriented Tool to Manage the Update and Revision of Variant Annotation and Classification. Genes (Basel) 12, 384 (2021).
+41.	Wilm, A. et al. LoFreq: a sequence-quality aware, ultra-sensitive variant caller for uncovering cell-population heterogeneity from high-throughput sequencing datasets. Nucleic Acids Res 40, 11189–11201 (2012).
+
