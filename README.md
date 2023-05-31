@@ -1,9 +1,11 @@
-# Final_Project
-- May 2023 in the Ironhack, Berlin
-# Coronavirus GENE - VARIANT Caller App and Machine Learning Approaches for Efficient Genomic Surveillance and Prediction Analyses  
+# Final_Project: Efficient hCoV-19 Variant Identification Made Easy: Introducing the Gene-Variant Caller App integrated with ML Model
+Find Gene-Variant Caller App: Version v1.0a and version 1.0b here: https://drive.google.com/file/d/1wJr9bk5hVIZVILIrAmkMrqCHItT51y6O/view?usp=drive_web
+  
 
 ## By Evans
-## Dataset: hCoV-19 (Coronavirus) complete genome Sequences from GISAID database!
+###May 2023: in the Ironhack, Berlin:
+### Coronavirus GENE - VARIANT Caller App and Machine Learning Approaches for Efficient Genomic Surveillance and Prediction Analyses
+### Dataset: hCoV-19 (Coronavirus) complete genome Sequences from GISAID database!
 
 ##  Table of Contents
 
@@ -11,8 +13,9 @@
 2. [Goals of the project¶](#3)
 3. [Data Gathering and Methodology](#4) 
 4. [Data Analytics and Conclusion](#5) 
-5. [Time Plan from May 10 to May 19](#6) 
-6. [References](#7)
+5. [Time Plan from May 10, 2023 to May 19, 2023](#6)
+6. [How to use the Gene-Caller App version 1.0a or 1.0b](#7)
+7. [References](#8)
    
 # Problem
 ## 1. CORONAVIRUS pandemic is still with us! And hence Genomic surveillance is still ON!
@@ -21,7 +24,7 @@
 
 # Goals of the project
 ## 1. Build a python-based App/GUI for gene - variant calling to make the process of genomic surveilance and variant tracking more efficient.
-## 2. Apply  Machine Learning Tools to predict variant, new(novel)/recurrent gene mutations in sequences.
+## 2. Apply  complement Gene-Variant calling with a trained Machine Learning Tools to predict variant, new(novel)/recurrent gene mutations in the sequences.
 
 # Data Gathering and Methodology
 1. Dataset is publicly available in GISAID dataset (https://gisaid.org/).
@@ -75,12 +78,12 @@
 - Variant calling  
 - gene calling, the 12 genes from fasta files
 - Viewtree for the data
-- sort the treeview by the first column 'entry'
+- sort the treeview by the first column 'index'
 - Clear viewtree content
 - Search tool for the tree content
 - Export the treeview data as csv file
 - Filter the dated data by date
-- view other standard data from csv, text, excel files
+- Import/Export: To view or save standard data in csv files
 
 ### What do the ML analyses reveal?
 - gene mutation prediction?
@@ -93,7 +96,7 @@
    -- R square
    
    
-# Results: With different classifiers
+## Results: With different classifiers
 
 ### 1. Random Forest Classifier
 1. Both the cDNA and Amino acid prediction with spike give >99.5% accuracy
@@ -123,7 +126,7 @@
 - Gene-Variant GUI App
 - ML analyses
        
-## Time Plan from May 10 to May 19 
+# Time Plan from May 10, 2023 to May 19, 2023
 
 ### 1st Day Wednesday May 10, 2023: DONE
 - Present the proposed Project
@@ -147,20 +150,48 @@
 - Exploring and checking usefulness
 - Documenting the results from different modeling algorithms
 
-### 4th Days: Monday May 15, 2023  
+### 4th Days: Monday May 15, 2023:  DONE
 - Further expoloration and validation of Machine Learning Algorithms in final data for ML datasets from data got from by gene/variant calling
 - Implement the GUI App to capture the modeling and prediction functions.
-### 5th Day: Tuesday May 16, 2023 
+### 5th Day: Tuesday May 16, 2023:  DONE
 - ML analysis continued 
-### 6th Day: Wednesday May 17, 2023 
+### 6th Day: Wednesday May 17, 2023:  DONE
 - ML analysis
 - Preliminary Results Interpretation
 - Draft of Presentation Preparation
-### 7h Day: Thursday May 18, 2023
+### 7h Day: Thursday May 18, 2023:  DONE
 - Final Results Interpretation
 - Final Presentation Preparation
-### 8th Day: Friday May 19, 2023
-- Presentation of Final Project
+### 8th Day: Friday May 19, 2023:  DONE
+- Presentation of Final Project. The project was voted among the top 3 best projects.
+
+The Gene-Variant Caller App is finally unveiled: https://drive.google.com/file/d/1wJr9bk5hVIZVILIrAmkMrqCHItT51y6O/view?usp=drive_web
+# How to use the Gene-Caller App version 1.0a or 1.0b
+- It should be downloaded together with the save pickle file.
+- The saved pickle file is the trained ML Random Forest model and should be saved together in the same folder for the model.
+- This will allow the App to access it when running the model for variant prediction.
+- Two initial versions (v1.0a and v1.0b) with and without a console. 
+- In v1.0a, genome and spike nucleotide columns are retained in the analysis. 
+- While v1.0b drops these columns for faster downstream analysis. 
+- Users can trace back the nucleotides using genome names.
+- The console option is valuable for user to identify errors that may arise during the analysis.
+- App is the ability to read GISAID Fasta files, which are widely used for storing hCoV-19 genome sequences. 
+- The app does data cleaning and preprocessing capabilities to ensure that the data is properly formatted and ready for analysis. 
+- The app offers a specialized gene-variant calling feature that is specifically designed for the GISAID dataset.
+- The app supports gene-variant calling not only for GISAID sequences but also for other Fasta cDNA sequence data. 
+- Users can extract specific genes of interest from the genome sequences using the app's gene extraction feature. 
+- The app utilizes a trained Random Forest machine learning model to complement Gene-Variant Caller in identifying variants.
+- The users to compare the results and performance of the Caller itself with the Random Forest machine learning model.
+- The app does variant tracking, allowing users to monitor and analyze the prevalence and dynamics of specific variants over time.
+- A keyword search functionality is integrated into the app, enabling users to quickly locate specific information within the dataset. 
+- The app's graph plotting feature also provides an intuitive way to visualize the spread and distribution of variants within the dataset.
+- Data CSV import and export functionalities are available.
+- Users working with GISAID dataset, can filter the data based on date ranges. 
+- Other features include sorting functionality of the treeview display of the dataset using the first column ‘index’ 
+- Ability to clear the treeview and search area
+- Overall, the Gene-Variant Caller App provides researchers and analysts with a comprehensive suite of tools and features to support their study of hCoV-19 genomic variations. 
+- It empowers users to uncover valuable insights and contribute to a deeper understanding of the virus.
+
 
 
 #  References
