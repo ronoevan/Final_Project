@@ -100,17 +100,17 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 ## Results: With different classifiers
 
 ### 1. Random Forest Classifier
-1. Both the cDNA and Amino acid prediction with spike give >99.5% accuracy
-2. But the prediction is correctly predicted with Amino acid seqs.
-3. cDNA seq predctions give all the variants predicted on unseen sequence as 'other'.
+1. Both the cDNA and Amino acid prediction with spike give >99.5% accuracy.
+2. cDNA seq predctions give all the variants predicted on unseen sequence as 'other'.
+3. Good enough, the prediction correctly predicted with the Amino acid seqs. So training the model nucleotide sequences was dropped in favour of amino acid sequences.
 4. So the better way is to use amino acid sequences for prediction of the variants and probability of getting having new mutations in a sequences consistent to each class (variant).
 5. Overally, Random Forest gives the best prediction of >99.5%, and predicts correctly with spike amino acids, and can get the probability of getting new mutations.
-6. Because of large sizes of sequences as string, reducing thenumber by dropping duplicates was helpful to reduce the size of file and time taken to computer and reduces the chances of running out of the memory of the computer.
+6. Because of large sizes of sequences as string, reducing the number by dropping duplicates was helpful to reduce the size of file and time taken to computer and reduces the chances of running out of the memory of the computer.
 
 ### 2. Support Vector Machines (SVMs)
 1. Gave an accuracy of 99.67%, and give the correct prediction on the correct sequences (new) 
-2. But if the sequence of is wrong or dammy sequence, then it predicts it as omicron, which is wrong. 
-3. Hence not robust in prediction of new sequences.
+2. But if the sequence of is wrong or dammy sequence, then it predicts it as omicron, which is interesting, and require in-depth investigation. 
+3. Hence its robustness in this case was doubtful, even though it has high accuracy in prediction of new sequences. Will come to it later as a side project to find out more about this scenario.
 
 ### 3. Naive Bayes
 1. Accuracy of 51.6%
