@@ -165,7 +165,7 @@ Find Gene-Variant Caller App: Version v1.0a and version 1.0b here: https://drive
 ### 8th Day: Friday May 19, 2023:  DONE
 - Presentation of Final Project. The project was voted among the top 3 best projects.
 
-# How to use the Gene-Caller App version 1.0a or 1.0b
+# Features, functionality and how to use the Gene-Caller App version 1.0a and version 1.0b
 - It should be downloaded together with the saved pickle file.
 - The saved pickle file is the trained ML Random Forest model and should be saved together in the same folder with the app.
 - This will allow the App to access it when running the model for variant prediction.
