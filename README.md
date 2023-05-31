@@ -283,7 +283,7 @@ https://www.ecdc.europa.eu/en/publications-data/sequencing-sars-cov-2 (2021).
 
 37.	Pedregosa, F. et al. Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research vol. 12 http://scikit-learn.sourceforge.net. (2011).
 
-38.	Foundation, P. S. pickle — Python object serialization¶. pickle — Python object serialization¶ https://docs.python.org/3/library/pickle.html (2021).
+38.	Foundation, P. S. pickle — Python object serialization. pickle — Python object serialization https://docs.python.org/3/library/pickle.html (2021).
 
 39.	Mendeley. Stay on top of your research. https://www.mendeley.com/reference-management/mendeley-desktop (2023).
 
