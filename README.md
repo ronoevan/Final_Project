@@ -173,8 +173,8 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 - The saved pickle file is the trained ML Random Forest model and should be saved together in the same folder with the app.
 - This will allow the App to access it when running the model for variant prediction.
 - Two initial versions (v1.0a and v1.0b) with and without a console. 
-- In v1.0a, genome and spike nucleotide columns are retained in the analysis, recommended when analysing less than 10,000 complete genome sequences. 
-- While v1.0b drops these columns for faster downstream analysis, recommended when analysing  over 10,000 complete genome sequences. 
+- In v1.0a, genome and spike nucleotide columns are retained in the analysis, recommended when analysing less than 1,000 complete genome sequences. 
+- While v1.0b drops these columns for faster downstream analysis, recommended when analysing  over 1,000 complete genome sequences. 
 - Users of v1.0b can trace back the nucleotides using genome names.
 - The console option is valuable for user to identify errors that may arise during the analysis.
 - App has the ability to read GISAID Fasta files, which are widely used for storing hCoV-19 genome sequences. 
