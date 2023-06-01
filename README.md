@@ -1,14 +1,16 @@
 # Final_Project: 
 # Efficient hCoV-19 Variant Identification Made Easy: Introducing the Gene-Variant Caller App integrated with ML Model
-# Abstract
-The emergence of human coronavirus (hCoV-19) variants raises concerns about their impact on transmissibility, virulence, diagnostic tools, and vaccine efficacy. Genomic surveillance is crucial for early detection, characterization of these mutations, and timely implementation of effective control strategies. In this study, the gene-variant caller app, a user-friendly tool for hCoV-2 genomic analysis was developed. The app integrates a trained Random Forest Machine Learning (ML) model to complement the application in variant identification. To validate its accuracy, publicly available worldwide genomic data from the GISAID (Global Initiative on Sharing All Influenza Data) database collected from April 1st to May 17th 2023 to track the emergence of Omicron subvariant Arcturus (XBB.1.16) were used. The results demonstrate the gene-variant caller's and ML model’s efficiency in identifying hCoV-19 variants from hCoV-19 genomic sequences. The Gene-Variant Caller app is a standalone tool that facilitates efficient tracking and identification of variants in large genomic datasets. It can be used to complement other existing tools to address the emergence of deadly hCoV-19 variants. The initial version of the app is now publicly available for Windows operating system. User feedback is encouraged to enhance its future development.
- 
+
 
 ## By Evans Rono, PhD. Email: ronoevan@gmail.com
-###May 2023: in the Ironhack, Berlin:
+### May 2023: in the Ironhack, Berlin:
 ### Coronavirus GENE - VARIANT Caller App and Machine Learning Approaches for Efficient Genomic Surveillance and Prediction Analyses
 ### Dataset: hCoV-19 (Coronavirus) complete genome Sequences from GISAID database!
 
+
+# Abstract
+The emergence of human coronavirus (hCoV-19) variants raises concerns about their impact on transmissibility, virulence, diagnostic tools, and vaccine efficacy. Genomic surveillance is crucial for early detection, characterization of these mutations, and timely implementation of effective control strategies. In this study, the gene-variant caller app, a user-friendly tool for hCoV-2 genomic analysis was developed. The app integrates a trained Random Forest Machine Learning (ML) model to complement the application in variant identification. To validate its accuracy, publicly available worldwide genomic data from the GISAID (Global Initiative on Sharing All Influenza Data) database collected from April 1st to May 17th 2023 to track the emergence of Omicron subvariant Arcturus (XBB.1.16) were used. The results demonstrate the gene-variant caller's and ML model’s efficiency in identifying hCoV-19 variants from hCoV-19 genomic sequences. The Gene-Variant Caller app is a standalone tool that facilitates efficient tracking and identification of variants in large genomic datasets. It can be used to complement other existing tools to address the emergence of deadly hCoV-19 variants. The initial version of the app is now publicly available for Windows operating system. User feedback is encouraged to enhance its future development.
+ 
 ##  Table of Contents
 
 1. [Abstract](#1)
@@ -26,8 +28,8 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 ## 3. And this may delay responses to emerging deadly variants.
 
 # Goals of the project
-## 1. Build a python-based App/GUI for gene - variant calling to make the process of genomic surveilance and variant tracking more efficient.
-## 2. Apply  complementary Gene-Variant calling with a Machine Learning Tools trained to predict variant, new(novel)/recurrent gene mutations in the sequences.
+## 1. Build a python-based App/GUI for gene-variant calling to make the process of genomic surveilance and variant tracking more efficient.
+## 2. implement a Gene-Variant caller App with a complementary variant identification process by Machine Learning Tools trained to predict variant, new(novel)/recurrent gene mutations in the sequences.
 
 # Data Gathering and Methodology
 1. Dataset is publicly available in GISAID dataset (https://gisaid.org/).
@@ -168,13 +170,13 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 ### 8th Day: Friday May 19, 2023:  DONE
 - Presentation of Final Project. The project was voted among the top 3 best projects.
 
-# Features, functionality, how to use and limitations of the Gene-Caller App version 1.0a and version 1.0b
+# Implementation and Availability of the hCoV-19 Genome Gene-Caller App version 1.0a and version 1.0b
 - It should be downloaded together with the saved pickle file.
 - The saved pickle file is the trained ML Random Forest model and should be saved together in the same folder with the app.
 - This will allow the App to access it when running the model for variant prediction.
 - Two initial versions (v1.0a and v1.0b) with and without a console. 
-- In v1.0a, genome and spike nucleotide columns are retained in the analysis, recommended when analysing less than 10,000 complete genome sequences. 
-- While v1.0b drops these columns for faster downstream analysis, recommended when analysing  over 10,000 complete genome sequences. 
+- In v1.0a, genome and spike nucleotide columns are retained in the analysis, recommended when analysing less than 1,000 complete genome sequences. 
+- While v1.0b drops these columns for faster downstream analysis, recommended when analysing  over 1,000 complete genome sequences. 
 - Users of v1.0b can trace back the nucleotides using genome names.
 - The console option is valuable for user to identify errors that may arise during the analysis.
 - App has the ability to read GISAID Fasta files, which are widely used for storing hCoV-19 genome sequences. 
@@ -204,6 +206,11 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 - Limitation 4. Gene-Variant Caller cannot directly identify unknown variant but it groups it among ‘Other’ variants. This requires additional analysis to characterize the new or unknown variants.
 - The Gene-Variant Caller App is finally unveiled: https://drive.google.com/file/d/1wJr9bk5hVIZVILIrAmkMrqCHItT51y6O/view?usp=drive_web
 
+# Acknowledgements
+I express profound appreciation to the global research community for their dedication to hCoV-19 genome sequencing and open sharing of data through NCBI, GISAID and other website outlets. Special thanks to NCBI and GISAID for providing access to the genomic data repository, pivotal in developing the Gene-Variant Caller App.
+I am grateful to my family for their unwavering support during the app's development. Their patience, understanding and encouragement during challenging times, including some sleepless nights have been invaluable.
+I immensely thank my mentors Alex Boski, Leo Krohne, and Sandra Hernandez for their guidance. I appreciate the valuable input from colleagues and friends that has significantly enhanced the app.
+This project is a result of collective support and collaboration. I am thankful to everyone involved and excited to share the app with the scientific community, hoping it would contribute to hCoV-19 variant analysis and research.
 
 
 
