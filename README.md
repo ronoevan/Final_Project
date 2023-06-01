@@ -204,6 +204,11 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 - Limitation 4. Gene-Variant Caller cannot directly identify unknown variant but it groups it among ‘Other’ variants. This requires additional analysis to characterize the new or unknown variants.
 - The Gene-Variant Caller App is finally unveiled: https://drive.google.com/file/d/1wJr9bk5hVIZVILIrAmkMrqCHItT51y6O/view?usp=drive_web
 
+# Acknowledgements
+I express profound appreciation to the global research community for their dedication to hCoV-19 genome sequencing and open sharing of data through NCBI, GISAID and other website outlets. Special thanks to NCBI and GISAID for providing access to the genomic data repository, pivotal in developing the Gene-Variant Caller App.
+I am grateful to my family for their unwavering support during the app's development. Their patience, understanding and encouragement during challenging times, including some sleepless nights have been invaluable.
+I immensely thank my mentors Alex Boski, Leo Krohne, and Sandra Hernandez for their guidance. I appreciate the valuable input from colleagues and friends that has significantly enhanced the app.
+This project is a result of collective support and collaboration. I am thankful to everyone involved and excited to share the app with the scientific community, hoping it would contribute to hCoV-19 variant analysis and research.
 
 
 
