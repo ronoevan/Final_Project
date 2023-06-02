@@ -177,7 +177,7 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 - Two initial versions (v1.0a and v1.0b) with and without a console. 
 - In v1.0a, genome and spike nucleotide columns are retained in the analysis, recommended when analysing less than 1,000 complete genome sequences. 
 - While v1.0b drops these columns for faster downstream analysis, recommended when analysing  over 1,000 complete genome sequences. 
-- Users of v1.0b can trace back the nucleotides using genome names.
+- Users of v1.0b can trace back the nucleotides using genome names, and using the spike gene calling function.
 - The console option is valuable for user to identify errors that may arise during the analysis.
 - App has the ability to read GISAID Fasta files, which are widely used for storing hCoV-19 genome sequences. 
 - The app does data cleaning and preprocessing capabilities to ensure that the data is properly formatted and ready for analysis. 
@@ -204,6 +204,7 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 - Limitaion 2. The need to drop genome columns to reduce processing time for large datasets.  
 - Limitation 3. While the study catalogued and used a few known variants, there is a need for improvement by expanding the variant list to include all known and relevant variants, thereby enhancing performance. 
 - Limitation 4. Gene-Variant Caller cannot directly identify unknown variant but it groups it among ‘Other’ variants. This requires additional analysis to characterize the new or unknown variants.
+- Configuration (config) file is currently being integrated to allow users to change input new variables such as spike variant-specific mutations (features) of a new hCoV-19 variant, and change the nane of newly trainded Random Forest ML models. 
 - The Gene-Variant Caller App is finally unveiled: https://drive.google.com/file/d/1wJr9bk5hVIZVILIrAmkMrqCHItT51y6O/view?usp=drive_web
 
 # Acknowledgements
