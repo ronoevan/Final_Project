@@ -146,7 +146,7 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 - Pipeline for ML analysis for different models
 - Finalize the App for variant calling to capture most of the Variants of Concern (VOC) or subvariants since November 2021
 - EDA for genome selections for ML analysis
-- EDA for feature selection for Ml analysis
+- EDA for feature selection for ML analysis
 ###  3rd Day: Friday May 12, 2023: DONE
 - gene and variant calling for bigger dataset
 - Collating the datasets
