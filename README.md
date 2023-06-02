@@ -151,7 +151,7 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 - gene and variant calling for bigger dataset
 - Collating the datasets
 - EDA for genome selections for ML analysis
-- EDA for feature selection for Ml analysis
+- EDA for feature selection for ML analysis
 - Exploring and checking usefulness
 - Documenting the results from different modeling algorithms
 
