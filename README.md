@@ -37,11 +37,11 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 
 **The column headings and their descriptions are listed here:**
 
-**width:** The length of the genome as a string.
+**genome_width:** The length of the genome as a string.
 
 **names:** name of the genome. The GISAID names of genomes have in them date and country of origin
 
-**seqs:** string of the genome cDNA. 
+**genome:** string of the genome cDNA. 
 
 **Derived columns: Other columns are derived by using the hCoV-19 python-based App
 
@@ -49,20 +49,20 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 
 **country:** country derived from column 'name'.
  
-**gene_cdna:** cDNA coding sequences of gene retrieved from the seqs
+**gene_cdna:** cDNA coding sequences of gene retrieved from the genome
 
-**gene_cdna_width:** length of cDNA coding sequences of gene retrieved from the seqs.
+**gene_cdna_width:** length of cDNA coding sequences of gene retrieved from the genome.
 
-**gene_aa:** amino acid (aa) coding sequences translated from gene retrieved from the seqs
+**gene_aa:** amino acid (aa) coding sequences translated from gene retrieved from the genome.
 
-**gene_aa_width:** length of amino acid (aa) coding sequences translated from gene retrieved from the seqs.
+**gene_aa_width:** length of amino acid (aa) coding sequences translated from gene retrieved from the genome.
 
-**type:** whether the sequence id a wild type or a variant.
+**type:** whether the sequence is a wild type or a variant.
 
 
 **variant_columns:** variant calling. What name of variant it is, otherwise its 'Other'.
 
-3. **Download complete genome datasets** from the GISAID database for samples collected in  Germany from Jan 2021 to April 2023.
+3. **Download complete genome datasets** from the GISAID database for samples collected in a representative country with constant genomic surveillance from Jan 2021 to April 2023.
     - complete genome sequences and with complete date of collection 
 4. Selected Python libraries will be used for EDA, data wrangling, GUI development and ML algorithms. 
 
@@ -73,7 +73,7 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
     - Interesting feature for lengths of cDNA and lengths of protein Amino acids    
 ## **Reveal the bigger picture:** 
      - Relate the data to the opportunity for hCov-19 genomic survelillance.
-     - Conclusion/Recommnedation about the prediction on its robustness on the prediction and if there are open questions.
+     - Conclusion/Recommendation about the prediction on its robustness on the prediction and if there are open questions.
      - Conclusion.
      
 
