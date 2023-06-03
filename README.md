@@ -204,7 +204,7 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 - Limitaion 2. The need to drop genome columns to reduce processing time for large datasets.  
 - Limitation 3. While the study catalogued and used a few known variants, there is a need for improvement by expanding the variant list to include all known and relevant variants, thereby enhancing performance. 
 - Limitation 4. Gene-Variant Caller cannot directly identify unknown variant but it groups it among ‘Other’ variants. This requires additional analysis to characterize the new or unknown variants.
-- Configuration (config) file is currently being integrated to allow users to change or input new variables such as spike variant-specific mutations (features) of a new hCoV-19 variant, and change the nane of newly trainded Random Forest ML models. 
+- Configuration (config) file is currently being integrated to allow users to change or input new variables such as spike variant-specific mutations (features) of a new hCoV-19 variant, and change the name of newly trainded Random Forest ML models. 
 - The Gene-Variant Caller App is finally unveiled: https://drive.google.com/file/d/1wJr9bk5hVIZVILIrAmkMrqCHItT51y6O/view?usp=drive_web
 
 # Acknowledgements
