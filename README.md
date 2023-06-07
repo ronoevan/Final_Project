@@ -49,7 +49,7 @@
 - Exploring and checking usefulness
 - Documenting the results from different modeling algorithms
 
-### 4th Days: Monday May 15, 2023:  DONE
+### 4th Day: Monday May 15, 2023:  DONE
 - Further expoloration and validation of Machine Learning Algorithms in final data for ML datasets from data got from by gene/variant calling
 
 
