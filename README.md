@@ -1,3 +1,19 @@
+
+##  Table of Contents
+
+1. [Title of the Project](#1)
+2. [Time Plan from May 10, 2023 to May 19, 2023](#2)
+3. [Abstract](#3)
+4. [Problem](#4)
+5. [Goals of the project¶](#5)
+6. [Data Gathering and Methodology](#6) 
+7. [Data Analytics and Conclusion](#7)
+
+8. [Implementation and Availability of the hCoV-19 Genome Gene-Caller App version 1.0a and version 1.0b](#8)
+9. [Acknowledgements](#9)
+10. [References](#10)
+
+
 # Final_Project: 
 # Efficient hCoV-19 Variant Identification Made Easy: Introducing the Gene-Variant Caller App integrated with ML Model
 
@@ -5,23 +21,55 @@
 ## By Evans Rono, PhD. Email: ronoevan@gmail.com
 ### May 2023: in the Ironhack, Berlin:
 ### Coronavirus GENE - VARIANT Caller App and Machine Learning Approaches for Efficient Genomic Surveillance and Prediction Analyses
-### Dataset: hCoV-19 (Coronavirus) complete genome Sequences from GISAID database!
+### Dataset: hCoV-19 (Coronavirus) complete genome Sequences from GISAID database.
+
+
+
+# Time Plan from May 10, 2023 to May 19, 2023
+
+### 1st Day Wednesday May 10, 2023: DONE
+- Present the proposed Project
+- Gather data
+- Preliminary data exploration subset of dataset for ML analysis
+- Pipeline for ML analysis 
+- Work on the App to refine it 
+### 2nd Day:Thursday May 11, 2023: DONE
+- Collating the datasets
+- Exploring the dataset
+- Further preliminary data exploration subset of dataset for ML analysis
+- Pipeline for ML analysis for different models
+- Finalize the App for variant calling to capture most of the Variants of Concern (VOC) or subvariants since November 2021
+- EDA for genome selections for ML analysis
+- EDA for feature selection for ML analysis
+###  3rd Day: Friday May 12, 2023: DONE
+- gene and variant calling for bigger dataset
+- Collating the datasets
+- EDA for genome selections for ML analysis
+- EDA for feature selection for ML analysis
+- Exploring and checking usefulness
+- Documenting the results from different modeling algorithms
+
+### 4th Days: Monday May 15, 2023:  DONE
+- Further expoloration and validation of Machine Learning Algorithms in final data for ML datasets from data got from by gene/variant calling
+
+
+- Implement the GUI App to capture the modeling and prediction functions.
+### 5th Day: Tuesday May 16, 2023:  DONE
+- ML analysis continued 
+### 6th Day: Wednesday May 17, 2023:  DONE
+- ML analysis
+- Preliminary Results Interpretation
+- Draft of Presentation Preparation
+### 7h Day: Thursday May 18, 2023:  DONE
+- Final Results Interpretation
+- Final Presentation Preparation
+### 8th Day: Friday May 19, 2023:  DONE
+- Presentation of Final Project. The project was voted among the top 3 best projects.
 
 
 # Abstract
 The emergence of human coronavirus (hCoV-19) variants raises concerns about their impact on transmissibility, virulence, diagnostic tools, and vaccine efficacy. Genomic surveillance is crucial for early detection, characterization of these mutations, and timely implementation of effective control strategies. In this study, the gene-variant caller app, a user-friendly tool for hCoV-2 genomic analysis was developed. The app integrates a trained Random Forest Machine Learning (ML) model to complement the application in variant identification. To validate its accuracy, publicly available worldwide genomic data from the GISAID (Global Initiative on Sharing All Influenza Data) database collected from April 1st to May 17th 2023 to track the emergence of Omicron subvariant Arcturus (XBB.1.16) were used. The results demonstrate the gene-variant caller's and ML model’s efficiency in identifying hCoV-19 variants from hCoV-19 genomic sequences. The Gene-Variant Caller app is a standalone tool that facilitates efficient tracking and identification of variants in large genomic datasets. It can be used to complement other existing tools to address the emergence of deadly hCoV-19 variants. The initial version of the app is now publicly available for Windows operating system. User feedback is encouraged to enhance its future development.
- 
-##  Table of Contents
 
-1. [Abstract](#1)
-2. [Problem](#2)
-3. [Goals of the project¶](#3)
-4. [Data Gathering and Methodology](#4) 
-5. [Data Analytics and Conclusion](#5) 
-6. [Time Plan from May 10, 2023 to May 19, 2023](#6)
-7. [Implementation and Availability of the hCoV-19 Genome Gene-Caller App version 1.0a and version 1.0b](#7)
-8. [Acknowledgements](#8)
-9. [References](#9)
    
 # Problem
 ## 1. CORONAVIRUS pandemic is still with us! And hence Genomic surveillance is still ON!
@@ -132,44 +180,6 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 - Gene-Variant GUI App
 - ML analyses
        
-# Time Plan from May 10, 2023 to May 19, 2023
-
-### 1st Day Wednesday May 10, 2023: DONE
-- Present the proposed Project
-- Gather data
-- Preliminary data exploration subset of dataset for ML analysis
-- Pipeline for ML analysis 
-- Work on the App to refine it 
-### 2nd Day:Thursday May 11, 2023: DONE
-- Collating the datasets
-- Exploring the dataset
-- Further preliminary data exploration subset of dataset for ML analysis
-- Pipeline for ML analysis for different models
-- Finalize the App for variant calling to capture most of the Variants of Concern (VOC) or subvariants since November 2021
-- EDA for genome selections for ML analysis
-- EDA for feature selection for ML analysis
-###  3rd Day: Friday May 12, 2023: DONE
-- gene and variant calling for bigger dataset
-- Collating the datasets
-- EDA for genome selections for ML analysis
-- EDA for feature selection for ML analysis
-- Exploring and checking usefulness
-- Documenting the results from different modeling algorithms
-
-### 4th Days: Monday May 15, 2023:  DONE
-- Further expoloration and validation of Machine Learning Algorithms in final data for ML datasets from data got from by gene/variant calling
-- Implement the GUI App to capture the modeling and prediction functions.
-### 5th Day: Tuesday May 16, 2023:  DONE
-- ML analysis continued 
-### 6th Day: Wednesday May 17, 2023:  DONE
-- ML analysis
-- Preliminary Results Interpretation
-- Draft of Presentation Preparation
-### 7h Day: Thursday May 18, 2023:  DONE
-- Final Results Interpretation
-- Final Presentation Preparation
-### 8th Day: Friday May 19, 2023:  DONE
-- Presentation of Final Project. The project was voted among the top 3 best projects.
 
 # Implementation and Availability of the hCoV-19 Genome Gene-Caller App version 1.0a and version 1.0b
 - It should be downloaded together with the saved pickle file.
