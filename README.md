@@ -1,5 +1,17 @@
 
-##  Table of Contents
+
+
+
+# Final_Project: 
+# Efficient hCoV-19 Variant Identification Made Easy: Introducing the Gene-Variant Caller App integrated with ML Model
+
+
+## By Evans Rono, PhD. Email: ronoevan@gmail.com
+### May 2023: in the Ironhack, Berlin:
+### Coronavirus GENE - VARIANT Caller App and Machine Learning Approaches for Efficient Genomic Surveillance and Prediction Analyses
+### Dataset: hCoV-19 (Coronavirus) complete genome Sequences from GISAID database.
+
+##  Table Table of Contents
 
 1. [Title of the Project](#1)
 2. [Time Plan from May 10, 2023 to May 19, 2023](#2)
@@ -12,18 +24,6 @@
 8. [Implementation and Availability of the hCoV-19 Genome Gene-Caller App version 1.0a and version 1.0b](#8)
 9. [Acknowledgements](#9)
 10. [References](#10)
-
-
-# Final_Project: 
-# Efficient hCoV-19 Variant Identification Made Easy: Introducing the Gene-Variant Caller App integrated with ML Model
-
-
-## By Evans Rono, PhD. Email: ronoevan@gmail.com
-### May 2023: in the Ironhack, Berlin:
-### Coronavirus GENE - VARIANT Caller App and Machine Learning Approaches for Efficient Genomic Surveillance and Prediction Analyses
-### Dataset: hCoV-19 (Coronavirus) complete genome Sequences from GISAID database.
-
-
 
 # Time Plan from May 10, 2023 to May 19, 2023
 
