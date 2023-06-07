@@ -19,7 +19,7 @@ The emergence of human coronavirus (hCoV-19) variants raises concerns about thei
 4. [Data Gathering and Methodology](#4) 
 5. [Data Analytics and Conclusion](#5) 
 6. [Time Plan from May 10, 2023 to May 19, 2023](#6)
-7. [How to use the Gene-Caller App version 1.0a or 1.0b](#7)
+7. [Implementation and Availability of the hCoV-19 Genome Gene-Caller App version 1.0a and version 1.0b](#7)
 8. [References](#8)
    
 # Problem
